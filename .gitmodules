@@ -1,0 +1,3 @@
+[submodule "insider-private"]
+	path = insider-private
+	url = https://github.com/UMC-4-th-INSIDER/insider-private.git
