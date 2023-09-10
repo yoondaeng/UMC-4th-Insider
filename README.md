@@ -1,4 +1,4 @@
-# <a href="https://github.com/UMC-4-th-INSIDER">UMC_INSIDER</a>
+# <a href="https://github.com/UMC-4-th-INSIDER">UMC 4th INSIDER</a>
 
 ## 서비스 이름 & 유래
 <img src="./image/인싸초기포스터.png" width="500px" height="700px">    
@@ -6,7 +6,7 @@
 #### Ingredient '재료' + cheap '싼' = INSIDER
 
 ### 인싸
-
+#### 나누는 식재료, 줄어드는 부담
 #### #동네 #절약 #식재료 #시장경제 활성화
 
 ## 시스템 개요
